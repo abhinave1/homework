@@ -1,2 +1,2 @@
 # homework
-This is a Demo pRoject
+This is a Demo Project
